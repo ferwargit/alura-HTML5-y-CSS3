@@ -155,22 +155,22 @@ td, th {
 }
 
 /* Parrafo de Ejemplo */
-main > p {
+/* main > p {
     background: red;
-}
+} */
 
 /* 1er Parrafo de la section */
-img + p {
+/* img + p {
     background: yellow;
-}
+} */
 
-img ~ p {
+/* img ~ p {
     background: green;
 }
 
 .principal p:not(#mision) {
     background: orange;
-}
+} */
 
 .principal {
     padding: 3em 0;
